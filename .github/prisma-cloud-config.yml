@@ -13,7 +13,7 @@ failure_criteria_for_creating_issues:
   high: 10
   medium: 10
   low: 10
-  operator: or
+  operator: AND
 # Define github asset name github_asset_name: "Github Asset Dev"
 # Define tags tags:
 - phase:testing
