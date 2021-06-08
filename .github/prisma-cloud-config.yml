@@ -10,9 +10,9 @@ failure_criteria_for_creating_checks:
 # customized in the "/.github/prisma-template-for-scan-results"
 # file.
 failure_criteria_for_creating_issues:
-  high: 1
-  medium: 1
-  low: 1
+  high: 10
+  medium: 10
+  low: 10
   operator: or
 # Define github asset name github_asset_name: "Github Asset Dev"
 # Define tags tags:
