@@ -17,7 +17,7 @@ failure_criteria_for_creating_checks:
 # file.
 failure_criteria_for_creating_issues:
   high: 10
-  medium: 10
+  medium: 20
   low: 10
   operator: or
 
